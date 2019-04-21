@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pickabookfront/precache-manifest.a5b227fda27944d9a2db26e17d14a3bb.js"
+  "/pickabookfront/precache-manifest.2e56b680ea21a781ef2eb17bcd205cf6.js"
 );
 
 workbox.clientsClaim();
