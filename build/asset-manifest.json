@@ -1,0 +1,19 @@
+{
+  "main.css": "/pickabookfront/static/css/main.12e03956.chunk.css",
+  "main.js": "/pickabookfront/static/js/main.6055f872.chunk.js",
+  "main.js.map": "/pickabookfront/static/js/main.6055f872.chunk.js.map",
+  "runtime~main.js": "/pickabookfront/static/js/runtime~main.9851e045.js",
+  "runtime~main.js.map": "/pickabookfront/static/js/runtime~main.9851e045.js.map",
+  "static/css/2.21495486.chunk.css": "/pickabookfront/static/css/2.21495486.chunk.css",
+  "static/js/2.2f79d7d7.chunk.js": "/pickabookfront/static/js/2.2f79d7d7.chunk.js",
+  "static/js/2.2f79d7d7.chunk.js.map": "/pickabookfront/static/js/2.2f79d7d7.chunk.js.map",
+  "index.html": "/pickabookfront/index.html",
+  "precache-manifest.f6629028b8623321a80159e967e226c9.js": "/pickabookfront/precache-manifest.f6629028b8623321a80159e967e226c9.js",
+  "service-worker.js": "/pickabookfront/service-worker.js",
+  "static/css/2.21495486.chunk.css.map": "/pickabookfront/static/css/2.21495486.chunk.css.map",
+  "static/css/main.12e03956.chunk.css.map": "/pickabookfront/static/css/main.12e03956.chunk.css.map",
+  "static/media/mdb.css": "/pickabookfront/static/media/arrow_right.8ef6a08c.svg",
+  "static/media/dimbg.jpg": "/pickabookfront/static/media/dimbg.95e9fb1a.jpg",
+  "static/media/all.min.css": "/pickabookfront/static/media/fa-solid-900.ff8d9f8a.ttf",
+  "static/media/logo.png": "/pickabookfront/static/media/logo.41881db2.png"
+}

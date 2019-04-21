@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import CustomLayout from './containers/Layout';
 import Login from './components/Form';
 import CenteredLayout from './containers/LoginLayout';
@@ -33,7 +33,7 @@ const BaseRouter = (props) => {
 
     return (
     <div>
-    <HashRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Switch>
         <AppRoute exact path='/' layout={(props) => <CustomLayout {...props} />} component={Login} props={props}/>
         <AppRoute exact path='/login/' layout={(props) => <CenteredLayout {...props} />} component={Login} props={props}/>
@@ -57,7 +57,7 @@ const BaseRouter = (props) => {
 
         <AppRoute exact path='/explore/' layout={(props) => <CustomLayout {...props} />} component={Explore} props={props} />
       </Switch>
-    </HashRouter>
+    </BrowserRouter>
     </div>
     )
   };
