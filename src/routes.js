@@ -30,6 +30,7 @@ const AppRoute = ({ component: Component, layout: Layout, ...rest }) => {
 
 const BaseRouter = (props) => {
     console.log(props);
+    console.log("Public url,", process.env.PUBLIC_URL);
 
     return (
     <div>

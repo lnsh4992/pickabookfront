@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/pickabookfront/static/media/fa-brands-400.5e2f9212.woff2"
   },
   {
-    "revision": "418dad87601f9c8abd0e5798c0dc1feb",
-    "url": "/pickabookfront/static/media/fa-solid-900.418dad87.woff2"
-  },
-  {
     "revision": "2ef8ba3410dcc71578a880e7064acd7a",
     "url": "/pickabookfront/static/media/fa-brands-400.2ef8ba34.woff"
+  },
+  {
+    "revision": "418dad87601f9c8abd0e5798c0dc1feb",
+    "url": "/pickabookfront/static/media/fa-solid-900.418dad87.woff2"
   },
   {
     "revision": "a7140145ebaaf5fb14e40430af5d25c4",
@@ -88,12 +88,12 @@ self.__precacheManifest = [
     "url": "/pickabookfront/static/media/fa-solid-900.49279363.svg"
   },
   {
-    "revision": "8ef6a08cdc1154920165680a4edde771",
-    "url": "/pickabookfront/static/media/arrow_right.8ef6a08c.svg"
-  },
-  {
     "revision": "11911410dca2de148f30954eb2fd5eab",
     "url": "/pickabookfront/static/media/arrow_left.11911410.svg"
+  },
+  {
+    "revision": "8ef6a08cdc1154920165680a4edde771",
+    "url": "/pickabookfront/static/media/arrow_right.8ef6a08c.svg"
   },
   {
     "revision": "dfe56a876d0282555d1e2458e278060f",
@@ -132,6 +132,10 @@ self.__precacheManifest = [
     "url": "/pickabookfront/static/media/Roboto-Medium.574fd0b5.woff2"
   },
   {
+    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
+    "url": "/pickabookfront/static/media/Roboto-Bold.39b2c303.woff2"
+  },
+  {
     "revision": "7500519de3d82e33d1587f8042e2afcb",
     "url": "/pickabookfront/static/media/Roboto-Thin.7500519d.woff"
   },
@@ -146,10 +150,6 @@ self.__precacheManifest = [
   {
     "revision": "fc78759e93a6cac50458610e3d9d63a0",
     "url": "/pickabookfront/static/media/Roboto-Medium.fc78759e.woff"
-  },
-  {
-    "revision": "39b2c3031be6b4ea96e2e3e95d307814",
-    "url": "/pickabookfront/static/media/Roboto-Bold.39b2c303.woff2"
   },
   {
     "revision": "dc81817def276b4f21395f7ea5e88dcd",
